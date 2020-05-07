@@ -1,0 +1,65 @@
+
+
+#group{
+    width: 20%;
+    height: 50%;
+    position: relative;
+    float: left;
+    left: 3%;
+    top: 30%;
+}
+
+#nameClient{
+    width: 24%;
+    height: 50%;
+    position: relative;
+    float: left;
+    left: -4%;
+    top: 30%;
+}
+
+#idClient{
+    width: 11%;
+    height: 50%;
+    position: relative;
+    float: left;
+    left: -2%;
+    top: 30%;
+}
+
+#deal{
+    width: 20%;
+    height: 50%;
+    position: relative;
+    float: left;
+    left: -1%;
+    top: 30%;
+}
+
+#idDeal{
+    width: 11%;
+    height: 50%;
+    position: relative;
+    float: left;
+    left: 0%;
+    top: 30%;
+}
+
+#filters{
+    display: flex;
+    justify-content: center;
+}
+
+#butFilter{
+    width: 12%;
+    height: 50%;
+    position: relative;
+    float: left;
+    left: 7%;
+    top: 30%;
+}
+#loginLink{
+    position: relative;
+    float: left;
+    left: 100%;
+}
